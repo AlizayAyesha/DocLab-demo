@@ -1,0 +1,17 @@
+{
+  "css.customData": [
+    "./tailwind-directives.json"
+  ],
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "css": "CSS"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "css.validate": false,
+  "css.lint.unknownAtRules": "ignore"
+}
